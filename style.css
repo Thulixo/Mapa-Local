@@ -1,0 +1,16 @@
+body {
+  background: greenyellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#mapid {
+  height: 750px;
+  width: 50%;
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.central {
+  display: grid;
+  place-items: center;
+}
